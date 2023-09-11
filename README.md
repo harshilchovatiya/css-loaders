@@ -5,7 +5,7 @@ Css custom loaders
 
 ## Demo
 
-https://harshilchovatiya.github.io/css-loader/
+https://harshilchovatiya.github.io/css-loaders/
 
 ## Feedback
 
